@@ -10,7 +10,7 @@
 
 > java -version
 
-### 输出应如下所示：
+#### 输出应如下所示：
 > openjdk version "11.0.5" 2019-10-15
 ### 
 > OpenJDK Runtime Environment (build 11.0.5+10-post-Raspbian-1deb10u1)
@@ -23,7 +23,7 @@
 > git clone git://github.com/ColdeZhang/Deer-Blynk-Server-Packed.git
 
 ## 3.启动服务
-> sh start-blynk-server.sh
+> sudo sh start-blynk-server.sh
 
 ## 4.进入后台
 ### 浏览器地址栏输入：
