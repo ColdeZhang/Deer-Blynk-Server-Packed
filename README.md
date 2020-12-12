@@ -3,6 +3,8 @@
 ## 1.安装Java
 ### 首先更新apt
 > sudo apt update
+### 再更新apt-get
+> sudo apt-get update
 ### 运行以下命令在您的Raspberry Pi上安装OpenJDK 11 JDK
 > sudo apt install default-jdk
 
