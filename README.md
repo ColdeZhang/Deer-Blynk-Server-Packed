@@ -28,10 +28,16 @@
 ## 4.进入后台
 ### 浏览器地址栏输入：
 > https://IP_ADDRESS:9443/admin
-### 邮箱：
+#### 邮箱：
 > admin@deer.com
-### 密码：
+#### 密码：
 > admin
 
 ## 5.APP连接
-> IP_ADDRESS:8080
+- 打开APP
+- 选择 Create New Account
+- 选择 Custom
+##### IP address输入
+> IP_ADDRESS（自己树莓派的IP）
+##### Port输入
+> 9443
