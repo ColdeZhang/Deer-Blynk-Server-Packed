@@ -32,7 +32,7 @@
 
 ## 4.进入后台
 ### 浏览器地址栏输入：
-> https://IP_ADDRESS:9443/admin
+> https://[IP_ADDRESS]:9443/admin
 #### 邮箱：
 > admin@deer.com
 #### 密码：
