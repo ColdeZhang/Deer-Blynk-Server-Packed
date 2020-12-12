@@ -8,4 +8,4 @@ echo "==============================================="
 echo "==============邮箱：admin@deer.com ============"
 echo "==============密码：admin ====================="
 echo "==============================================="
-java -jar server.jar -dataFolder /home/pi/Blynk-Server/data -serverConfig /home/pi/Blynk-Server/server.properties;
+java -jar server.jar -dataFolder /home/pi/Blynk-Server/data -serverConfig /home/pi/Deer-Blynk-Server-Packed/server.properties;
