@@ -1,0 +1,34 @@
+01:48:54.527 INFO - Using data dir '/home/pi/Blynk-Server/data'
+01:48:56.735 INFO - Region : local. Host : 127.0.1.1.
+01:48:58.765 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+01:48:58.987 INFO - Reports : 0
+01:48:58.998 INFO - Didn't find custom user certificates.
+01:48:59.005 INFO - Didn't find Let's Encrypt certificates.
+01:48:59.005 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+01:48:59.006 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/Blynk-Server', key : '/home/pi/Blynk-Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+01:49:06.713 INFO - HTTP API and WebSockets server listening at 8080 port.
+01:49:06.717 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+01:49:06.720 INFO - Mqtt hardware server listening at 8440 port.
+01:54:22.035 INFO - Using data dir '/home/pi/Blynk-Server/data'
+01:54:24.264 INFO - Region : local. Host : 127.0.1.1.
+01:54:25.908 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+01:54:26.109 INFO - Reports : 0
+01:54:26.119 INFO - Didn't find custom user certificates.
+01:54:26.136 INFO - Didn't find Let's Encrypt certificates.
+01:54:26.136 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+01:54:26.137 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/Blynk-Server', key : '/home/pi/Blynk-Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+01:54:31.930 INFO - HTTP API and WebSockets server listening at 8080 port.
+01:54:31.933 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+01:54:31.936 INFO - Mqtt hardware server listening at 8440 port.
+02:01:37.504 INFO - Using data dir '/home/pi/Blynk-Server/data'
+02:01:39.630 INFO - Region : local. Host : 127.0.1.1.
+02:01:41.276 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+02:01:41.481 INFO - Reports : 0
+02:01:41.491 INFO - Didn't find custom user certificates.
+02:01:41.509 INFO - Didn't find Let's Encrypt certificates.
+02:01:41.509 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+02:01:41.510 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/Blynk-Server', key : '/home/pi/Blynk-Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+02:01:46.832 INFO - HTTP API and WebSockets server listening at 8080 port.
+02:01:46.835 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+02:01:46.837 INFO - Mqtt hardware server listening at 8440 port.
+02:04:39.024 INFO - User coldezhang@foxmail.com successfully removed.

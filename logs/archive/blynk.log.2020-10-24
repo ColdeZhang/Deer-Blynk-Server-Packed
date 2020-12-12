@@ -1,0 +1,45 @@
+04:00:11.961 INFO - Using data dir '/home/pi/Blynk-Server/data'
+04:00:12.193 INFO - Region : local. Host : 127.0.1.1.
+04:00:13.930 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+04:00:15.160 INFO - Reports : 0
+04:00:15.170 INFO - Didn't find custom user certificates.
+04:00:15.177 INFO - Didn't find Let's Encrypt certificates.
+04:00:15.178 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+04:00:15.180 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/Blynk-Server', key : '/home/pi/Blynk-Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+04:00:23.236 INFO - HTTP API and WebSockets server listening at 8080 port.
+04:00:23.240 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+04:00:23.242 INFO - Mqtt hardware server listening at 8440 port.
+04:08:24.540 INFO - Using data dir '/home/pi/Blynk-Server/data'
+04:08:26.664 INFO - Region : local. Host : 127.0.1.1.
+04:08:28.292 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+04:08:28.498 INFO - Reports : 0
+04:08:28.508 INFO - Didn't find custom user certificates.
+04:08:28.531 INFO - Didn't find Let's Encrypt certificates.
+04:08:28.531 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+04:08:28.532 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/Blynk-Server', key : '/home/pi/Blynk-Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+04:08:35.551 INFO - HTTP API and WebSockets server listening at 8080 port.
+04:08:35.554 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+04:08:35.556 INFO - Mqtt hardware server listening at 8440 port.
+04:09:36.245 WARN - User 'coldezhang@foxmail.com' not registered. /192.168.1.5:49633
+04:09:50.986 INFO - Trying register user : coldezhang@foxmail.com, app : Blynk
+04:09:51.018 INFO - Registered coldezhang@foxmail.com.
+04:09:51.306 INFO - coldezhang@foxmail.com Blynk-app (iOS-22605) joined.
+04:09:57.768 WARN - Error sending greeting email for coldezhang@foxmail.com.
+04:10:27.559 INFO - Creating new dashboard.
+04:10:47.969 INFO - coldezhang@foxmail.com Blynk-app (iOS-22605) joined.
+04:10:57.976 ERROR- Error sending email auth token to user : coldezhang@foxmail.com. Error: Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+04:10:59.075 INFO - Creating new dashboard.
+04:11:19.390 INFO - coldezhang@foxmail.com Blynk-app (iOS-22605) joined.
+04:11:29.464 ERROR- Error sending email auth token to user : coldezhang@foxmail.com. Error: Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+04:13:29.100 INFO - Using data dir '/home/pi/Blynk-Server/data'
+04:13:31.231 INFO - Region : local. Host : 127.0.1.1.
+04:13:32.858 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+04:13:33.061 INFO - Reports : 0
+04:13:33.083 INFO - Didn't find custom user certificates.
+04:13:33.090 INFO - Didn't find Let's Encrypt certificates.
+04:13:33.090 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+04:13:33.091 WARN - ATTENTION. Server certificate paths (cert : '/home/pi/Blynk-Server', key : '/home/pi/Blynk-Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+04:13:41.654 INFO - HTTP API and WebSockets server listening at 8080 port.
+04:13:41.657 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+04:13:41.659 INFO - Mqtt hardware server listening at 8440 port.
+04:13:56.042 INFO - coldezhang@foxmail.com Blynk-app (iOS-22605) joined.
