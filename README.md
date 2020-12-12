@@ -25,6 +25,9 @@
 > git clone git://github.com/ColdeZhang/Deer-Blynk-Server-Packed.git
 
 ## 3.启动服务
+### 进入目录
+> cd Deer-Blynk-Server-Packed
+### 运行快捷方式
 > sudo sh start-blynk-server.sh
 
 ## 4.进入后台
